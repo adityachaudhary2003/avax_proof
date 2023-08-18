@@ -1,6 +1,6 @@
 ## Creating A Token.
 
-The program provides a straightforward custom token named "MyToken" that was created using Solidity on the Ethereum blockchain. Tokens may be created and destroyed, and their overall supply and individual balances may be monitored. The programme makes sure that token holders have enough balance before conducting any burning operations by having the capacity to mint new tokens and burn current ones. This agreement may be freely used and distributed if it complies with the MIT licence. In general, it offers a simple and convenient framework for developing and administering unique tokens on the Ethereum network, providing a dependable answer for token tracking and granting.
+The program provides a custom token named "MyToken" that was created using Solidity on the Ethereum blockchain. Tokens may be created and destroyed, and their overall supply and individual balances may be monitored. The programme makes sure that token holders have enough balance before conducting any burning operations by having the capacity to mint new tokens and burn current ones. This agreement may be freely used and distributed if it complies with the MIT licence. In general, it offers a simple and convenient framework for developing and administering unique tokens on the Ethereum network, providing a dependable answer for token tracking and granting.
 
 
 ## Description.
